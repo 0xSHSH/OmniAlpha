@@ -1,1 +1,1 @@
-# OmniAlpha 1
+# OmniAlpha
